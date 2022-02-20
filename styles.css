@@ -4,8 +4,6 @@
     padding: 0;
 }
 
-
-
 .container{
     width: 100vw;
     height: 100vh;
@@ -18,10 +16,14 @@
 
 h1{
     position: absolute;
-    top: 20px;
-    font-size: 100px;
+    top: 20%;
+    text-align: center;
+    font-size: 5rem;
+    margin-bottom: 50%;
 }
+
 button{
+    margin-top: 40%;
     border-radius: 25px;  
     background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
 	background-size: 400% 400%;

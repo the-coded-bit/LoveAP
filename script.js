@@ -1,5 +1,5 @@
-const playbtn = document.querySelector('.play');
-const audio = document.querySelector('.audio');
+const playbtn = document.querySelector('#play');
+const audio = document.querySelector('#audio');
 var isPlaying = false;
 
 playbtn.addEventListener('click', ()=> {
